@@ -53,4 +53,19 @@ body{
     width: 100%;
     height: auto;
     object-fit: cover;
-}   
+}
+
+footer {
+    text-align: center;
+    background-color: ;
+    padding: 40px 0;
+}
+
+footer img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    color: #faebd7;
+}
