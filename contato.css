@@ -22,8 +22,27 @@ form label, form p {
     margin: 0 0 10px;
 }
 
+form input{
+    display: block;
+    margin: 0 0 20px;
+    padding:  10px 25px;
+    width: 50%;
+}
+
 .enviar {
     width: 40%;
     padding: 15px;
     background-color: #aa9377;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background-color: #faebd7;
+    transform: scale(1.2);
+
 }
