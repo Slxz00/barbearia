@@ -21,3 +21,9 @@ form label, form p {
     font-size: 20px;
     margin: 0 0 10px;
 }
+
+.enviar {
+    width: 40%;
+    padding: 15px;
+    background-color: #aa9377;
+}
