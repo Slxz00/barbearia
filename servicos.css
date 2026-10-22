@@ -13,6 +13,7 @@
     padding: 30px 20px;
     box-sizing: border-box;
     border: 2px solid beige;
+    border-radius: 1opx;
 }
 
 .servicos h2 {
