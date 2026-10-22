@@ -41,6 +41,11 @@ h1 {
     margin-top: 40px;
 }
 
+nav a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
 .caixa {
     background: #fff;
     padding: 20px 0;
