@@ -4,9 +4,9 @@ a {
 }
 
 body {
-     font-family: 'Oswald', sans-serif;
-     background-color: #faebd7;
-     text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background-color: #faebd7;
+    text-align: center;
 }
 
 header {
@@ -22,10 +22,10 @@ form label, form p {
     margin: 0 0 10px;
 }
 
-form input{
+form input {
     display: block;
-    margin: 0 0 20px;
-    padding:  10px 25px;
+    margin: 0 auto 20px;
+    padding: 10px 25px;
     width: 50%;
 }
 
@@ -40,27 +40,26 @@ form input{
     border-radius: 5px;
     cursor: pointer;
     transition: 1s all;
-    animation: repitir 1s linear infinite;
+    animation: repetir 1s linear infinite;
 }
 
-.enviar:hover{
+.enviar:hover {
     background-color: #faebd7;
     transform: scale(1.2);
-
 }
 
 @keyframes repetir {
-    0%{
+    0% {
         transform: scale(1.0);
         background-color: antiquewhite;
     }
     
-     50%{
+    50% {
         transform: scale(1.0);
         background-color: rgb(236, 227, 55);
     }
 
-     100%{
+    100% {
         transform: scale(1.0);
         background-color: rgb(255, 167, 51);
     }
