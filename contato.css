@@ -64,3 +64,8 @@ form input {
         background-color: rgb(255, 167, 51);
     }
 }
+
+footer img {
+    width: 50px;
+    margin-bottom: 20px;
+}
